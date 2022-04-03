@@ -1,0 +1,2 @@
+# vsc
+Tugas pertemuan kedua
